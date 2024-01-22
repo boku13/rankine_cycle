@@ -1,2 +1,2 @@
 # Rankine Cycle
-Please don't ask me what a rankine cycle is.
+Simulated and plotted the Rankine Cycle as a part of the course MEL-2020.
